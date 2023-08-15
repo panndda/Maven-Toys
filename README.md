@@ -13,4 +13,8 @@ locations?
 
 Beyond the business questions outlined by the capstone project, I independently formulated a supplementary set of business questions to be addressed using the available dataset. They include;
 
-4. 
+4. Which store location has the highest revenue contribution to the total sales?
+5. What is the average number of units sold per week for each product through the years?
+6. Which store has the highest inventory turnover rate (units sold / stock on hand) ?
+7. Top 5 selling Products by units
+8. Which product categories have shown the highest growth in sales revenue over the past year?
