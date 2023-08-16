@@ -41,3 +41,5 @@ Beyond the business questions outlined by the capstone project, I independently 
 *  Leverage the projected inventory duration insights to fine-tune inventory management. Adjust stock levels to match sales patterns, reducing carrying costs and stockouts.
 *  Stay attuned to changing customer preferences and market trends. Flexibility in product offerings can lead to sustained profitability.
 *  Investigate competitors' offerings, pricing, and strategies. This can provide insights into areas for improvement and differentiation.
+
+### Thanks for reading 🙏
