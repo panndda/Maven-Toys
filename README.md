@@ -1,5 +1,6 @@
 # Maven-Toys
-[!](https://github.com/panndda/Maven-Toys/blob/main/maven.png)
+![maven](https://github.com/panndda/Maven-Toys/blob/main/maven.png)
+
 Maven Toys is a chain of toy stores in Mexico. The entity maintains a database which houses information about it's products, stores, daily sales transactions, and current inventory levels at each location.
 This exploratory analysis was conducted as a response to the capstone project assigned during my participation in the Utiva Data Analytics Bootcamp.
 The datasets are also included in the repository.
