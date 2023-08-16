@@ -21,7 +21,7 @@ Beyond the business questions outlined by the capstone project, I independently 
 7. What are the top 5 selling Products by units?
 8. Which product categories have shown the highest growth in sales revenue over the past year?
 
-## Insights 📝
+## Insights 📝👨‍💻
 * Toys emerged as the most profitable product category with $1,079,527 earned as as total profit for the period, electronics and art & craft emerged as the second and third most profitable categories with a total of $1,001,437 and $753,354 earned as profit respectively
 * Toys did not yield the highest profits across all store locations. Toys topped 2 locations (downtown and residential) as the most profitable category while electronics topped 2 other locations (Airport and commercial) as the most prfitable.
 * Maven Toys Ciudad de Mexico 2 store had the highest amount tied up in inventory with a total of $8,917.85. followed by Maven Toys Hermosillo 1 store with a total of $7,923.49.
