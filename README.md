@@ -18,3 +18,8 @@ Beyond the business questions outlined by the capstone project, I independently 
 6. Which store has the highest inventory turnover rate (units sold / stock on hand) ?
 7. Top 5 selling Products by units
 8. Which product categories have shown the highest growth in sales revenue over the past year?
+
+## Insights
+* Toys emerged as the most profitable product category with 1079527 earned as as total profit for the period, electronics and art & craft emerged as the second and third most profitable categories with a total of 1001437 and 753354 earned respectively
+* Toys did not yield the highest profits across all store locations. Toys topped 2 locations as the most profitable category while electronics topped 2 other locations as the most prfitable
+* 
