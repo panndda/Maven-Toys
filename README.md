@@ -5,7 +5,7 @@ Maven Toys is a chain of toy stores in Mexico. The entity maintains a database w
 This exploratory analysis was conducted as a response to the capstone project assigned during my participation in the Utiva Data Analytics Bootcamp.
 The datasets are also included in the repository.
 
-## Business Questions
+## Business Questions ❔
 Queries were to be written to answer the following business questions as required;
 
 1. Which product categories drive the biggest profits? Is this the same across store
