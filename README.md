@@ -29,7 +29,7 @@ Beyond the business questions outlined by the capstone project, I independently 
 * Sales are been lost at certain locations on products as the products are not readily available for purchase due to been out of stock.
 * The downtown location had the highest revenue contribution throughout the period as it contributed about 57%($8,219,596.27) of the total revenue, followed by commercial location which contributed 22.7%($3,279,139.52) of the total revenue.
 * Maven Toys Guanajuato 1 store has the highest inventory turnover rate with it's stock been replenished a total 67 times throughout the period, followed by the Maven Toys Ciudad de Mexico 1 store with it's stocks been replenished a total of 57 times. Inventory turnover rate is a crucial financial metric that reflects how efficiently a store converts its inventory into sales. A higher turnover rate often suggest that inventory is being sold rapidly.
-* Top 5 selling products include colorbuds, playdoh,barrel o'slime, deck of cards, and magic sound with a total of $104,368, $103,128, $91,663, $84,034, $60,598 units sold respectively.
+* Top 5 selling products include colorbuds, playdoh,barrel o'slime, deck of cards, and magic sound with a total of 104368, 103128, 91663, 84034, 60598 units sold respectively.
 * Arts and Craft showed the highest sales growth as it had a total of 98% growth in total revenue between 2017 and 2018 while electronics showed the highest decrease it had a 44% decrease in sales revenue between 2017 and 2018
 
 ## Recommendations
